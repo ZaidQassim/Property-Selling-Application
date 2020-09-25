@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "../node_modules/font-awesome/css/font-awesome.min.css";
+
+
+/* import fonts */ 
+@font-face { 
+    font-family: 'Cairo-Regular';
+    src: url('../src/assets/fonts/Cairo-Regular.ttf');
+}
+
+body{
+    font-family: 'Cairo-Regular';
+}
